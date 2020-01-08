@@ -1,2 +1,7 @@
 # Default ignored files
+.idea
 /workspace.xml
+./checkstyle-idea.xml
+./misc.xml
+./modules.xml
+./vcs.xml
